@@ -1,0 +1,30 @@
+Product      Quantity Sold    Unit Price
+Laptop             50            1200
+Mouse              200            25
+Keyboard           150            75
+Monitor            80             300
+Webcam             120             50
+
+Analysis:
+Calculate Total Sales per Product: Multiply Quantity Sold by Unit Price for each product.
+Laptop: 50 * 1200 = 60,000
+Mouse: 200 * 25 = 5,000
+Keyboard: 150 * 75 = 11,250
+Monitor: 80 * 300 = 24,000
+Webcam: 120 * 50 = 6,000
+Calculate Total Sales: Sum the total sales per product.
+Total Sales = 60,000 + 5,000 + 11,250 + 24,000 + 6,000 = 1,06,250
+Identify Best-Selling Product (by Revenue): Determine the product with the highest total sales.
+The Laptop has the highest total sales at 60,000.
+Sales Report Summary
+
+Total Sales Revenue: 1,06,250
+
+Best-Selling Product (by Revenue): Laptop (60,000)
+
+Product-wise Sales Breakdown:
+- Laptop: 60,000
+- Monitor: 24,000
+- Keyboard: 11,250
+- Webcam: 6,000
+- Mouse: 5,000
